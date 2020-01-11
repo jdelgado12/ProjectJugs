@@ -71,11 +71,11 @@ Partial Class Calculator
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel2 = New System.Windows.Forms.Panel()
-        Me.Label2 = New System.Windows.Forms.Label()
         Me.TableLayoutPanel3 = New System.Windows.Forms.TableLayoutPanel()
         Me.Button44 = New System.Windows.Forms.Button()
         Me.Button43 = New System.Windows.Forms.Button()
         Me.Button42 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.TableLayoutPanel2.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -784,22 +784,12 @@ Partial Class Calculator
         '
         'Panel2
         '
-        Me.Panel2.Controls.Add(Me.Label2)
+        Me.Panel2.Controls.Add(Me.TextBox1)
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel2.Location = New System.Drawing.Point(0, 41)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(327, 106)
         Me.Panel2.TabIndex = 3
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Segoe UI Semibold", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(267, 18)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(55, 65)
-        Me.Label2.TabIndex = 0
-        Me.Label2.Text = "0"
         '
         'TableLayoutPanel3
         '
@@ -860,6 +850,17 @@ Partial Class Calculator
         Me.Button42.TabIndex = 3
         Me.Button42.Text = "GRAD"
         Me.Button42.UseVisualStyleBackColor = True
+        '
+        'TextBox1
+        '
+        Me.TextBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer))
+        Me.TextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!)
+        Me.TextBox1.Location = New System.Drawing.Point(12, 28)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.TextBox1.Size = New System.Drawing.Size(303, 46)
+        Me.TextBox1.TabIndex = 0
         '
         'Calculator
         '
@@ -935,10 +936,10 @@ Partial Class Calculator
     Friend WithEvents Label3 As Label
     Friend WithEvents Label1 As Label
     Friend WithEvents Panel2 As Panel
-    Friend WithEvents Label2 As Label
     Friend WithEvents TableLayoutPanel3 As TableLayoutPanel
     Friend WithEvents Button44 As Button
     Friend WithEvents Button43 As Button
     Friend WithEvents Button42 As Button
     Friend WithEvents Button45 As Button
+    Friend WithEvents TextBox1 As TextBox
 End Class

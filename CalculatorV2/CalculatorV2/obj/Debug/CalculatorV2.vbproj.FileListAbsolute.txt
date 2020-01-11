@@ -9,3 +9,14 @@ C:\Users\A515-51G\Documents\Visual Studio 2015\Projects\CalculatorV2\CalculatorV
 C:\Users\A515-51G\Documents\Visual Studio 2015\Projects\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.pdb
 C:\Users\A515-51G\Documents\Visual Studio 2015\Projects\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.vbprojResolveAssemblyReference.cache
 C:\Users\A515-51G\Documents\Visual Studio 2015\Projects\CalculatorV2\CalculatorV2\obj\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe.config
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.exe
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.xml
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.pdb
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.pdb
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.xml
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joshua Delgado\Desktop\Calcu\ProjectJugs\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.vbproj.GenerateResource.Cache
